@@ -1,0 +1,9 @@
+file_name,subreddit,source,post_id,title,n_observations,start_score,end_score,start_comments,end_comments,total_dscore,total_dcomments,total_dt_seconds,avg_score_rate,avg_comment_rate,max_score_rate,max_comment_rate,score_per_comment
+politics_hot.jsonl,politics,hot,1so1r8x,MAGA Is Increasingly Convinced the Trump Assassination Attempt Was Staged,7,21562,22096,2647,2693,534,46,828.5,0.6446,0.0555,0.8037,0.0672,11.6087
+politics_hot.jsonl,politics,hot,1so899t,MAGA Increasingly Believes Trump Assassination Attempt Was Fake | President Trump’s base seems to be turning against him like never before.,7,1070,1549,174,238,479,64,828.5,0.5782,0.0773,0.6857,0.1334,7.4844
+politics_hot.jsonl,politics,hot,1so5sy7,Trump Is Stark-Raving Mad—Impeach Him Now,7,3845,4180,168,177,335,9,828.5,0.4044,0.0109,0.6165,0.0536,37.2222
+news_new.jsonl,news,new,1so0d0o,Iran declares Strait of Hormuz completely open to commercial traffic during Israel-Lebanon ceasefire,7,15854,16140,1021,1035,286,14,828.4,0.3452,0.0169,0.5628,0.0402,20.4286
+news_hot.jsonl,news,hot,1so0d0o,Iran declares Strait of Hormuz completely open to commercial traffic during Israel-Lebanon ceasefire,7,15875,16145,1022,1036,270,14,828.5,0.3259,0.0169,0.5358,0.0402,19.2857
+news_new.jsonl,news,new,1so6u7z,"RFK Jr once cut penis off ‘road-killed raccoon’ in New York, new book reveals",7,2733,3012,337,354,279,17,828.4,0.3368,0.0205,0.4941,0.0534,16.4118
+news_hot.jsonl,news,hot,1so6u7z,"RFK Jr once cut penis off ‘road-killed raccoon’ in New York, new book reveals",7,2737,3014,338,354,277,16,828.5,0.3343,0.0193,0.4701,0.0537,17.3125
+politics_hot.jsonl,politics,hot,1snx5cp,Trump goes after Fox News host Jessica Tarlov as she reveals negative poll numbers calling her ‘least attractive’ and ‘boring’,7,10777,10945,1036,1053,168,17,828.5,0.2028,0.0205,0.4301,0.0403,9.8824
