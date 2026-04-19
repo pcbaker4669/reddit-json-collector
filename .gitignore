@@ -38,6 +38,7 @@ Thumbs.db
 # ----------------------------
 data/
 derived/
+comments/
 
 # ----------------------------
 # LOGS / OUTPUTS
