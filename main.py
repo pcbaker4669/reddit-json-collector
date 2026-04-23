@@ -142,5 +142,5 @@ def run_collector(max_cycles=2):
 
 
 if __name__ == "__main__":
-    final_cycle = run_collector(max_cycles=2)
+    final_cycle = run_collector(max_cycles=180)
     run_end_of_day_processing(cycle_count=final_cycle)
