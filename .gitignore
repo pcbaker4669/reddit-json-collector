@@ -40,6 +40,10 @@ data/
 derived/
 comments/
 
+# Allow small sample data for reproducibility
+!data_sample/
+!derived_sample/
+
 # ----------------------------
 # LOGS / OUTPUTS
 # ----------------------------
