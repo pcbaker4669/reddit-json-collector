@@ -1,3 +1,11 @@
+[![DOI](https://zenodo.org/badge/1220891086.svg)](https://doi.org/10.5281/zenodo.19764232)
+## Citation
+
+This repository is archived on Zenodo:
+
+https://doi.org/10.5281/zenodo.19764232
+
+
 # Reddit JSON Collector
 
 A lightweight data collection pipeline for tracking Reddit posts over time using public JSON endpoints. This tool repeatedly samples subreddit feeds (e.g., /new, /hot) and stores timestamped observations for downstream analysis of temporal dynamics and burst behavior.
