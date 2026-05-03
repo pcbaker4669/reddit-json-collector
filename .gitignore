@@ -14,6 +14,16 @@ __pycache__/
 *.pyd
 *.sqlite3
 
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
 # ----------------------------
 # VIRTUAL ENVIRONMENTS
 # ----------------------------
