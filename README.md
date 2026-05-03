@@ -1,9 +1,9 @@
-[![DOI](https://zenodo.org/badge/1220891086.svg)](https://doi.org/10.5281/zenodo.19764232)
+[![DOI](https://zenodo.org/badge/1220891086.svg)](https://doi.org/10.5281/zenodo.20013979)
 ## Citation
 
 This repository is archived on Zenodo:
  
-https://doi.org/10.5281/zenodo.19764232
+https://doi.org/10.5281/zenodo.20013979
 
 
 # Reddit JSON Collector
